@@ -1,4 +1,4 @@
-https://www.codechef.com/problems/BURGERS
+// https://www.codechef.com/problems/BURGERS
 
 #include <iostream>
 using namespace std;
