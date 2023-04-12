@@ -6,8 +6,27 @@
 
 - Maintained From 2022.
 - Repo names are the first letters of problem code.
-
-
-
-
     > Eg: for problem code BIRYANI, go to B/BIRYANI.cpp
+
+
+
+### C template
+
+```
+#include <stdio.h>
+#include <math.h>
+#include <string.h>
+
+void batman()
+{
+    
+}
+
+int main()
+{
+    int t;
+    scanf("%d",&t);
+    while(t--) batman(); 
+    return 0;
+}
+```
